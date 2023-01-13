@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi  👋 Meu Nome é Luiz Felipe<br><br>Desenvolvedor Full Stacka Jr<br>Académico em Ciência da Computação<br>Estudante do Programa Proprofissão 4.0 do Instituto Proa<br><br>Fascinado pela tecnologia e o que ela pode fazer na vida diária. <br><br>✉️ yfelipelv@gmail.com
+Hi  👋 Meu Nome é Luiz Felipe<br><br>Desenvolvedor Full Stack Jr<br>Académico em Ciência da Computação<br>Estudante do Programa Proprofissão 4.0 do Instituto Proa<br><br>Fascinado pela tecnologia e o que ela pode fazer na vida diária. <br><br>✉️ yfelipelv@gmail.com
 
 
 ## 🌐 Socials:
